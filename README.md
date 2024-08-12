@@ -12,7 +12,8 @@
 | Arquivo  | Descrição |
 | ------------- | ------------- |
 | `NLP-comentario.ipynb` | Extrair comentário das paginas dos psiquiatras  |
-| Content Cell  | Content Cell  |
+| `EDA_doctoralia_psiquiatria.ipynb`  | Content Cell  |
+
 
 Referencia: 
 https://github.com/corralm/doctoralia-scraper
