@@ -14,3 +14,5 @@
 | `NLP-comentario.ipynb` | Extrair comentário das paginas dos psiquiatras  |
 | Content Cell  | Content Cell  |
 
+Referencia: 
+https://github.com/corralm/doctoralia-scraper
